@@ -1,0 +1,15 @@
+﻿msgctxt "Context1"
+msgid "Cancel"
+msgstr "Отмена"
+
+msgctxt "Context1.Subcontext1.Subcontext2"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "Context1.Subcontext1.Subcontext2"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "Context2.Subcontext3"
+msgid "Test"
+msgstr "Тест"
